@@ -1,1 +1,1 @@
-{"id":"0ba7056e-d514-4f66-90fe-3f1ed44b9b67","space":8943,"runtime":"python3.9","name":"starlette-test","path":"9irjhm","project":"c0z4a516","account":"144798365827","region":"ap-southeast-1","deps":null,"envs":null,"public":true,"log_level":"debug","cron":""}
+{"id":"0ba7056e-d514-4f66-90fe-3f1ed44b9b67","space":8943,"runtime":"python3.9","name":"starlette-test","path":"9irjhm","project":"c0z4a516","account":"144798365827","region":"ap-southeast-1","deps":["starlette"],"envs":null,"public":true,"log_level":"debug","cron":""}
